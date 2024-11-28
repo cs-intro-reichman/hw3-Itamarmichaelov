@@ -1,4 +1,4 @@
-import java.util.HashMap;
+
 
 /** Functions for checking if a given string is an anagram. */
 public class Anagram {
